@@ -1,0 +1,86 @@
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.exe.config
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.exe
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.pdb
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.Form1.resources
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.Properties.Resources.resources
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.exe
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.pdb
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSys.C6E7A8A7.Up2Date
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.exe.config
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.exe
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\GraphSystemInterface.pdb
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\MySql.Data.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Buffers.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Memory.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\ZstdSharp.dll
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\MySql.Data.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Buffers.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Memory.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.AssemblyReference.cache
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.Form1.resources
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.Properties.Resources.resources
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.GenerateResource.cache
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.csproj.CoreCompileInputs.cache
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSys.C6E7A8A7.Up2Date
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.exe
+C:\Users\ОГМ\source\repos\GraphSystemInterface (2)\GraphSystemInterface\GraphSystemInterface\obj\Debug\GraphSystemInterface.pdb
